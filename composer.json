@@ -6,6 +6,7 @@
             "email": "matthew.james.allan@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
